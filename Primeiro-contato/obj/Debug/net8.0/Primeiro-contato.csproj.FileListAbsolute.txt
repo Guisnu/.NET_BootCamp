@@ -1,0 +1,29 @@
+C:\Users\User\Desktop\BOOTCAMP .NET\Primeiro-contato\bin\Debug\net8.0\Primeiro-contato.exe
+C:\Users\User\Desktop\BOOTCAMP .NET\Primeiro-contato\bin\Debug\net8.0\Primeiro-contato.deps.json
+C:\Users\User\Desktop\BOOTCAMP .NET\Primeiro-contato\bin\Debug\net8.0\Primeiro-contato.runtimeconfig.json
+C:\Users\User\Desktop\BOOTCAMP .NET\Primeiro-contato\bin\Debug\net8.0\Primeiro-contato.dll
+C:\Users\User\Desktop\BOOTCAMP .NET\Primeiro-contato\bin\Debug\net8.0\Primeiro-contato.pdb
+C:\Users\User\Desktop\BOOTCAMP .NET\Primeiro-contato\obj\Debug\net8.0\Primeiro-contato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\BOOTCAMP .NET\Primeiro-contato\obj\Debug\net8.0\Primeiro-contato.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\BOOTCAMP .NET\Primeiro-contato\obj\Debug\net8.0\Primeiro-contato.AssemblyInfo.cs
+C:\Users\User\Desktop\BOOTCAMP .NET\Primeiro-contato\obj\Debug\net8.0\Primeiro-contato.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BOOTCAMP .NET\Primeiro-contato\obj\Debug\net8.0\Primeiro-contato.dll
+C:\Users\User\Desktop\BOOTCAMP .NET\Primeiro-contato\obj\Debug\net8.0\refint\Primeiro-contato.dll
+C:\Users\User\Desktop\BOOTCAMP .NET\Primeiro-contato\obj\Debug\net8.0\Primeiro-contato.pdb
+C:\Users\User\Desktop\BOOTCAMP .NET\Primeiro-contato\obj\Debug\net8.0\Primeiro-contato.genruntimeconfig.cache
+C:\Users\User\Desktop\BOOTCAMP .NET\Primeiro-contato\obj\Debug\net8.0\ref\Primeiro-contato.dll
+C:\Users\User\Desktop\.NET_BootCamp\Primeiro-contato\bin\Debug\net8.0\Primeiro-contato.exe
+C:\Users\User\Desktop\.NET_BootCamp\Primeiro-contato\bin\Debug\net8.0\Primeiro-contato.deps.json
+C:\Users\User\Desktop\.NET_BootCamp\Primeiro-contato\bin\Debug\net8.0\Primeiro-contato.runtimeconfig.json
+C:\Users\User\Desktop\.NET_BootCamp\Primeiro-contato\bin\Debug\net8.0\Primeiro-contato.dll
+C:\Users\User\Desktop\.NET_BootCamp\Primeiro-contato\bin\Debug\net8.0\Primeiro-contato.pdb
+C:\Users\User\Desktop\.NET_BootCamp\Primeiro-contato\obj\Debug\net8.0\Primeiro-contato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\.NET_BootCamp\Primeiro-contato\obj\Debug\net8.0\Primeiro-contato.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\.NET_BootCamp\Primeiro-contato\obj\Debug\net8.0\Primeiro-contato.AssemblyInfo.cs
+C:\Users\User\Desktop\.NET_BootCamp\Primeiro-contato\obj\Debug\net8.0\Primeiro-contato.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\.NET_BootCamp\Primeiro-contato\obj\Debug\net8.0\Primeiro-contato.sourcelink.json
+C:\Users\User\Desktop\.NET_BootCamp\Primeiro-contato\obj\Debug\net8.0\Primeiro-contato.dll
+C:\Users\User\Desktop\.NET_BootCamp\Primeiro-contato\obj\Debug\net8.0\refint\Primeiro-contato.dll
+C:\Users\User\Desktop\.NET_BootCamp\Primeiro-contato\obj\Debug\net8.0\Primeiro-contato.pdb
+C:\Users\User\Desktop\.NET_BootCamp\Primeiro-contato\obj\Debug\net8.0\Primeiro-contato.genruntimeconfig.cache
+C:\Users\User\Desktop\.NET_BootCamp\Primeiro-contato\obj\Debug\net8.0\ref\Primeiro-contato.dll
